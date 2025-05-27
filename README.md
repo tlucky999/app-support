@@ -16,4 +16,5 @@ If you have any feedback, feature suggestions, feel free to reach out:
 
 - Email: [agoldvein@gmail.com](mailto:agoldvein@gmail.com)
 
-## If you like this app, please consider giving us a 5-star rating.  Your support means a lot to us!
+## If you like this app, please consider giving us a 5-star rating.
+## Your support means a lot to us!
